@@ -1,0 +1,28 @@
+{
+  "name": "pit_mall_gateway",
+  "version": "1.0.0",
+  "description": "111",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/229598274/pit_mall_gateway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/229598274/pit_mall_gateway/issues"
+  },
+  "homepage": "https://github.com/229598274/pit_mall_gateway#readme",
+  "dependencies": {
+    "mongojs": "2.6.0",
+    "restify": "8.4.0",
+    "superagent": "5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.1"
+  }
+}
